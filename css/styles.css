@@ -346,8 +346,8 @@ footer {
 }
 
 .portfolio-items {
-    width: 370px;
-    border: 1px solid #EEEEEE;
+    background-color: var(--primary-white-color);
+    border-bottom: 1px solid #EEEEEE;
 }
 
 .portfolio-items>div {
